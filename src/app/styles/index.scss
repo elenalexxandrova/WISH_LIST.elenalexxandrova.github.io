@@ -1,0 +1,13 @@
+@font-face {
+    font-weight: 400;
+    font-family: 'Tenor Sans Regular';
+    src: url("@/shared/assets/fonts/static/TenorSans-Regular.ttf");
+}
+
+body {
+    font-family: "Tenor Sans", sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    word-wrap: break-word;
+    // background-color: var(--el-bg-color);
+  }
